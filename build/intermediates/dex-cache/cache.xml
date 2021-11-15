@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\90533bcbedb344733a076dbe183f22ec4577d052\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_6e6f16b2927601c35a2877888562344ecf343ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\6a74d5d1aa932c0816fdf9684360ed2796f8f9a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_b4f9bdfd4f1d7807d015df3510b5fbf7e0e15f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Developing\Workspace\Android\IBazaar\JJSearchViewAnim\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a128b3647b830eb3ea68aaa57d217e84ba21db8">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_53131c09ac13cb20f8c44f842519f510bd38c6ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\6bf02642bee7fa942e812d9b442a87dbe164b5a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1db28e119b406a5fe367b63fb1be083d5dfe298a">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_cc9a2c1cb860898536dd19a941f96ef34a77c4df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_3429463427f340d762b9fee7052ac987f0487d24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\497fcedab9f1f516a95d3db3cc3a35391f65b2f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9efcdaab56618ccf1b2a3dbf9e8352af800bebec">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_dcdffd4a7c3c3d407ff979686e32d2bc8df56091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\81aae19fdbf572bbe2fdeff22368dab23a426c6b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="febd8ee6e11cb4a6c8304143a3c46609f56ff815">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_b367b1719a05d675f5f71e2bd38dbea540a85cfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\AppData\Local\android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_949d11bdef52e715dec07037a29616c07896e410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\dfcdf13b46e3cd19ff71b94521c61eea812e50cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31dbe885ef6a9d6a88412750e85784f60b95cb90">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_7974af5607e7fcba1eebb406a2294f885cc93569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\dbecb5c73e45413769e3b48d804387d8a5d2f769\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_c6f36dc9607abb89687732556e3146dfcf974529.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\ef6bdf25cb2e2016c1af7b32f37a47e30a96506c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6694a48b4aee711a0577936e25068b4ea3eafc8b">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_a806bf35c8bb21aad3db0671fa2361f6a1c1d673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\745fbc64131ee9801ccd14cce29e8d556c912b01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_0f4f4b57289bed0d616881bc09df7ae43fe9632a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_362ac797debcf71bdec5763a76d5e4fbc4a24ad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\f7fc18773d4ecb9722d091332e35a324ff29034a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_468843c168e853a087ab100437146c7ddf592b1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\93ab0404b75c60b12f09f0360e09dccaa6d80a9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88ccdbf844995d5c9c845e087068d27588b2d026">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_76c81d70378798cf6745f7ac043a68b2156b31b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\26b2fa0af8220e0e99dfcc15b045216945c22828\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="757d7e742ee90d50242abdc8616bfcfd04ad0575">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_c2c1c626be9c8d678400898db993ca8be64af2b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\135b71caa0d8296b471bf6302cb3270ccdce2773\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd69608d341cba9d1d5af32a1edf9e207558c312">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_04f8b7e0dc79ada02e82cc2ca58136ce91d7089f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\7a6245b147670d0d72249fa485132be1f54a1334\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="197c431b8fc427f77e02997e299bd6b9bef58ede">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_bc1df7b54658a990a1aae83cc5deb601f8f58b55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\890323ac92a13e4384b6042b11beccf213d521da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="795c31cfe3a049d283f48ca366d07155251c7903">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_dca91f5cd3312ce0963f7316b6fe84d38893d02c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\b27dc60174421a337350dbaf1ef8613610154334\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_0261f0cc1002cc3454f4ca3907af700d1e5b770b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\0ec56cca1ebb5c7dc1de2b715283975597532436\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_a842f9f72333a936aaa4f1f613c353148136f2ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\64d100b44342cd989b76f3f1ee4136388c7358d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c5bfb989e99b9308bcbe7ad2dfd56fa81e63440">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_ff16d5a06411f46f5e08c301f1117c02825f1d15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\b991a82153858d141f4edb8c528f027ff11057af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_e4ff364996782027157a5a0fe30a17ed5dde6541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\181e5c239e0572ede7ae62beec6681dece7ca69a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_6745cbd593d0900978eff0b4ce7cf88fd448845b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\4f9b826780eb6ff3110e95a2650e8420c6afe5c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_322e3c704ddf875c016241993fd58d9e43d3bc45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.2.2\b76bee23cd3f3ee9b98bc7c2c14670e821ddbbfd\httpcore-4.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b76bee23cd3f3ee9b98bc7c2c14670e821ddbbfd">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\httpcore-4.2.2_ddd43f86f6933e2ed1a2b4c09ac854dbb73dcf7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\a39469347ed5aa3f5891c84005b3ab7bbacc3726\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_93fbd1e18ebcf471c6f21447d7905db56dfd46e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\03fa303f59b6b89fa0c6999c3f8b9ca05760f93e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34fc70f7f1d882154d876ea763f05977d9945699">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_da1a6a6ee76740ca56eaed4ef10cb8c491211c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\ea4826c4b14b517765bfb1593db23896925ca911\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a743d0934e90e7f26d75a2463142c4b884b2981">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_851d96c04e9cb7cd8fb9431200c6d4fedf86e086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\9278928d17352b0ebd80ae82b6e4ed67cdf1f925\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e321f93dc9379e01485b0811f46c23c3572596d">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_9f4d8c99ca437f5b3dd1c2bf2f0f2419c622427b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\9619e31eaf17424ae6458b9778e79e9a41062b56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_60d91df25e6b6ba4efe71fd34bcf585744941c9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\ee038db37bf3f0651153dbefdbda314e8eaa5151\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_82a4519b49abc685c78e3e06a17babe02592396a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\96fbaeaaec294b99174b2928e04b3d35b2748142\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_8b477a5000ff321f165e5962a2513cdf36cf1992.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="268cb1ffae7065dfb3c84bc743556e9ea03bfacb">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_66642d97ac434a4d6df58906f3c200edb671dbb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\f7b03cc0eb19188075a53096cf43835c89845438\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b305cfd7ae732d7c146fe3046aea90f877c3892b">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_dbe5ba5adb765492e1bbd2b1ce5ad8b381f9dda7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Developing\Workspace\Android\IBazaar\spacelib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48d4fd111abfe65c35410481679030fe4bcc7850">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_b59fe4a50ffcce7f75e81961b4e787a85bf7d53d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\3e7242a6c7b403f8cbe7ce1f4cd5d836eebfb391\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8419191d25f4105772fc16b55a005a270cb4d4c8">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_7182fe65eaa5a41987c3e13ac2c52b89e62a8659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\library-2.4.0_ba5453a885b61bc16e4483084623e2520c3d00eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\ac824eb1f79f3a570e278ecd2a840f3236159642\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc36bd2d0d62ca1558695905005027522933f7f1">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_786f828278f2aa8abd88dadd41be747b73d5d62c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\59c8ee72aa58378dcee8f89653ea68418fe6c4f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_529631c425d94e1f18d77e50dd189b22da104616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\519c67f1cb4583b1ec0e2ba30715369a186a00c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_c53a70d3f6a0f729d8e64967cf2787ada22c4caf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\389d2069be8ffe18124bd792085a8b45e04b90eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16e578dc74247f694a05d8a7628f3dd58c84633f">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_ba9e9dd00954d0ddeaeb0c9ca181f5636ad26635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.2.3\118ae1bc7f3aeeddfe564f0edfd79c11d09d17d1\httpmime-4.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="118ae1bc7f3aeeddfe564f0edfd79c11d09d17d1">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\httpmime-4.2.3_69fad220207ab6e13a38fa2f88590429dbd34583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\8364a14af834bb648941bdd4655045ccbd81f8e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4e89fb6c71ed538c2491a6f7d30670f731d035c">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_e09a5d079624f0e40d9bfe16eaa89fbb7bc06c1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\d52dd1ebd57f3296f36cad9eed54f839594b721f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba944d83e8d2f700fb8f7ec5669e57b6df75ba18">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_922f9df635169d79dcb8cf744dadad951278e1c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\cf3e613f2b1c06781d9d0ab28dcf40dd1863d200\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_631b4b5eccdc442eae73523251fa1c98049ef001.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\d9643458e90b1b1d2b9d8d5ec446b604aea60b73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_37de17e0bce56eaefaa598aae1805a4db4ae8126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\systembartint-1.0.3_c4af438e4ae36972dfb83925e328c88580f09ab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\e1c19ab71c49cbb306442a0fe5bfa243b6c68e82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_e30a8765f15c816a9dd0c3890fdf3baf139124ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\276593fb9cc93daa0a07539ad8f3ed9d16106aec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_a46be654f2df55b651f3205f13bdf685cb581af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\2ab3d8fd53b473f50862e2a39711077cdf3ff714\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="13430a12bb2eb82b397f10f61fe1f6989279c6bd">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_9faed9c7dcab0c28831a60d712058db0d0e91c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\9606d691178de38814ed74985aa65b0d39b631ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97de88af0ffe77881e72fc8c743ffeffb1cd1fca">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_2797976466f4c9badfeadb93a2ac41607254d103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\57a8b03d268f7fd9a6d5b7cbdcbf7ce90b0f47a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="256c2cf84542c459927ed4aa5f99a9b47855c071">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_9278cc91ada3d3c79b0119baecee399f692d1c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\6a8b99a7725bf4f5b485d0ba9477d913a9e4b194\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f635f53387085220f02014589f50b14d6efb3ec">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_079dfe3bca61b18f35370d87aebd56df4f3f76a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.1\bf8841d29fa39e077730e7a91222c2ce269fa7c9\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_92d3ad44ce21da502060316c23ccd6f22e1d1a9b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c4b926a5f68a560052ec9676238da19cba55e2db\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\53c01800685c438aab78ba1c9b7d0d9a7bc0a49b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d16ffcc50b1dfa726cf978ea9f0a949cdd70e7d">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_9eae4252b183e30d10caf462a9af9365bb77f62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\99f6d92914bf800c00e1614583909eac22b420c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bd32b72098fecf44dcab3808a11e6b9fcb86b7b">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_0ac41f1c4bccc54a3961d352e5069cbba23e6554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\a406eb4c88ea1dcb46243ab2beceff9362ba42d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_4041aa660be94fb57fb89c7f65cd5837f3b4294e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\d8e64ad3c8a2994db688428b3b98ab2edaf8199c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_5b237d09daa01576ab0c1607ff8bc0f848ce30ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\d9c9a3b55af6c18d04c03f46cd84d1aaba5d35d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_20dbe89779b9e9b458d73dfe1d4d2c7a1d6f65f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\7dfe01a451f9c96d5aa636a90e187adfcfe779f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a88eaa7f9a31907def9a7968367475bdf5170be">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_a4a6f8fc60281d8a16df01496646fbf2564838e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ali_Ai\.android\build-cache\32d867595f3c2fab716cef4fd7d9c8de9eb34c62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Developing\Workspace\Android\IBazaar\app\build\intermediates\pre-dexed\debug\classes_6f27a748de2d37173cef75633f3619cb42f9a2b6.jar" />
+    </item>
+
+</items>
