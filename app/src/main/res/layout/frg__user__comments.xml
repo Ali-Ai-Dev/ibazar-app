@@ -1,0 +1,83 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="fragments.Frg_User_Comments">
+
+
+    <LinearLayout
+        android:id="@+id/layout_no_comments"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="16dp"
+            android:text="@string/no_comments_registered" />
+
+        <ImageView
+            android:id="@+id/img_no_comments"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.github.lzyzsd.circleprogress.ArcProgress
+            android:id="@+id/score1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+
+            android:layout_margin="8dp"
+            custom:arc_bottom_text="score1"
+            custom:arc_finished_color="@color/primary"
+            custom:arc_max="100"
+            custom:arc_progress="80"
+            custom:arc_suffix_text=" "
+            custom:arc_text_color="@color/primary"
+            custom:arc_unfinished_color="@color/gray_btn_bg_color" />
+
+        <com.github.lzyzsd.circleprogress.ArcProgress
+            android:id="@+id/score2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="8dp"
+            custom:arc_bottom_text="score2"
+            custom:arc_finished_color="@color/primary"
+            custom:arc_max="100"
+            custom:arc_progress="30"
+            custom:arc_suffix_text=" "
+            custom:arc_text_color="@color/primary"
+            custom:arc_unfinished_color="@color/gray_btn_bg_color" />
+
+        <com.github.lzyzsd.circleprogress.ArcProgress
+            android:id="@+id/score3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="8dp"
+            custom:arc_bottom_text="score3"
+            custom:arc_finished_color="@color/primary"
+            custom:arc_max="100"
+            custom:arc_progress="50"
+            custom:arc_suffix_text=" "
+            custom:arc_text_color="@color/primary"
+            custom:arc_unfinished_color="@color/gray_btn_bg_color" />
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/list_comments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp" />
+
+</LinearLayout>

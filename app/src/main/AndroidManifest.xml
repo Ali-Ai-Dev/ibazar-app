@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.tnt.ibazaar">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <!-- <uses-permission android:name="android.permission.READ_SMS"/> -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".Application"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="false"
+        android:theme="@style/AppTheme.NoActionBar"
+        tools:replace="android:supportsRtl,icon">
+        <activity
+            android:name=".Act_Main"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustPan" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".Act_Map"
+            android:excludeFromRecents="true"
+            android:label="@string/title_activity_act__map"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".Act_Splash_Screen"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Act_Shops_List"
+            android:label="@string/title_activity_act__shops"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_Intro"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Act_SignUp"
+            android:label="@string/title_activity_act__sign_up"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_Login"
+            android:label="@string/title_activity_act__login"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Act_Verify"
+            android:label="@string/title_activity_act__verify"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_Sign_Up_Completion"
+            android:label="@string/title_activity_act__sign__up__completion"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Act_Change_Pass" />
+        <activity
+            android:name=".Act_Edit_Profile"
+            android:label="@string/title_activity_act__edit__profile"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Base.Theme.AppCompat" />
+        <activity
+            android:name=".Act_Shop"
+            android:label="@string/title_activity_act__shop"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_Previous_Orders"
+            android:label="@string/title_activity_act__previous__orders"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_Bookmarks"
+            android:label="@string/title_activity_act__bookmarks"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_Share"
+            android:label="@string/title_activity_act__share"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_Support"
+            android:label="@string/title_activity_act__support"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_Message_Support"
+            android:label="@string/title_activity_act__message__support"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_About_Us"
+            android:label="@string/title_activity_act__about__us"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="fb3b45a2ac35a96277571762ff72be04a4932ee7" />
+
+        <activity
+            android:name=".Act_Credit"
+            android:label="@string/title_activity_act__credit"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_Settings"
+            android:label="@string/title_activity_act__settings"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_Search"
+            android:label="@string/title_activity_act__search"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_Basket"
+            android:label="@string/title_activity_act__basket"
+            android:launchMode="singleTask"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="fromOnlinePayment"
+                    android:pathPrefix="/test-zarinpal-payment"
+                    android:scheme="return" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Act_Image" />
+        <activity
+            android:name=".Act_Product_And_Service"
+            android:label="@string/title_activity_act__product"
+
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Act_Filter"
+            android:excludeFromRecents="true"
+            android:label=""
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".Act_Other_Problems"
+            android:excludeFromRecents="true"
+            android:label="@string/title_activity_act__other__problems"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity
+            android:name=".Act_Report"
+            android:excludeFromRecents="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
+        <activity android:name=".Act_Full_List_Products_Or_Services" />
+        <activity android:name=".Act_Product_Details_Specs" />
+        <activity android:name=".Act_Return_From_Payment"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="space_background_color">#757575</color>
+    <color name="space_transparent">#00000000</color>
+    <color name="space_white">#f44336</color>
+    <color name="space_default_color">#FFFFFF</color>
+    <color name="centre_button_color">#FFFFFF</color>
+    <color name="default_inactive_item_color">#9e9e9e</color>
+    <color name="default_active_item_color">#262626</color>
+    <color name="selected_item_color">#3fffffff</color>
+    <color name="badge_background_color">#f44336</color>
+    <color name="white_with_alpha">#bfffffff</color>
+    <color name="colorBackgroundHighlightWhite">#8dffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="addss">#b8b8b8</color>
+    <color name="colorPrimary">#5F4A8B</color>
+</resources>

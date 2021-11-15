@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/please_wait"
+            android:textColor="@color/text_primary" />
+
+        <com.rey.material.widget.ProgressView
+            android:id="@+id/progress"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            app:pv_autostart="true"
+            app:pv_circular="false"
+            app:pv_progressMode="determinate" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

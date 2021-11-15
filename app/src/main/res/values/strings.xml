@@ -1,0 +1,209 @@
+<resources>
+    <string name="app_name">iBazaar</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">جستجو</string>
+    <string name="advanced_search">جستجوی پیشرفته</string>
+    <string name="home">خانه</string>
+    <string name="menu">منو</string>
+    <string name="increase_credit">افزایش اعتبار</string>
+    <string name="amount">موجودی</string>
+    <string name="currency">تومان</string>
+    <string name="stock">موجودی</string>
+
+    <array name="menu_items_logged_in">
+        <item>خرید های پیشین</item>
+        <item>نشان شده ها</item>
+        <item>معرفی به دوستان</item>
+        <item>ویرایش اطلاعات کاربری</item>
+        <item>تنظیمات</item>
+        <item>پشتیبانی</item>
+        <!--<item>تماس با ما</item>-->
+        <item>درباره با ما</item>
+        <item>خروج از حساب کاربری</item>
+        <item></item>
+        <item>نسخه 1.0</item>
+    </array>
+
+    <array name="menu_items_not_logged_in">
+
+        <item>تنظیمات</item>
+        <item>پشتیبانی</item>
+        <item>نشان شده ها</item>
+        <item>درباره با ما</item>
+        <item></item>
+        <item>نسخه 1.0</item>
+    </array>
+
+
+    <string name="title_activity_act__map">Map</string>
+    <string name="search_in_products">جستجو در محصولات</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product">محصول</string>
+    <string name="location">محل</string>
+    <string name="shop">فروشگاه</string>
+    <string name="press_back_again">برای خروج مجددا دکمه بازگشت را را فشار دهید</string>
+    <string name="gps_not_enabled">جی پی اس فعال نیست</string>
+    <string name="settings">تنظیمات</string>
+    <string name="cancel">لغو</string>
+
+    <string name="title_activity_act__splash__screen">Act_Splash_Screen</string>
+
+    <string name="not_connected_to_internet">عدم اتصال به اینترنت</string>
+    <string name="not_connected_check_internet">اتصال شما به اینترنت برقرار نیست.لطفا به اینترنت متصل شوید.</string>
+    <string name="retry">تلاش مجدد</string>
+
+    <string name="app_needs_permission_to_save_app_data">به منظور ذخیره سازی اطلاعات برنامه، نیاز به مجوز دسترسی به حافظه است.</string>
+    <string name="please_wait">لطفا منتظر بمانید…</string>
+    <string name="title_activity_act__list__shops">Act_List_Shops</string>
+    <string name="title_activity_act__shops">Act_Shops</string>
+    <string name="error_connecting_to_server">خطا در ارتباط با سرور</string>
+    <string name="connecting">در حال اتصال به سرور…</string>
+
+    <string name="intro1">دوباره یه اپ دیگه قراره نصب کنی رو گوشیت؟</string>
+    <string name="intro2">یه نگاه دقیق به بازار و خریدهای به صرفه تر…!؟</string>
+    <string name="intro3">ما برات پیدا کردیم که کلی میتونه به دردت بخوره</string>
+    <string name="intro4">از امروز اعلام میکنیم اکثر خریدهات با یه انگشت انجام میشه</string>
+    <string name="intro5">پس معطل نکن و برای حذف استهلاک های الکی و خرید زمان همراه باش</string>
+    <string name="guest">مهمان</string>
+    <string name="register">ثبت نام</string>
+    <string name="login">ورود</string>
+    <string name="title_activity_act__sign_up">Act_SignUp</string>
+    <string name="enter_phone_without_zero">لطفا شماره همراه خود را بدون صفر ابتدای آن وارد کنید.</string>
+    <string name="sign_up">ثبت نام</string>
+    <string name="ChooseCountry">انتخاب کشور</string>
+    <string name="phone_correct">آیا از صحت شماره خود اطمینان دارید؟</string>
+    <string name="yes">بله</string>
+    <string name="edit">ویرایش</string>
+    <string name="enter_phone_number">لطفا شماره تلفن همراه خود را وارد نمایید.</string>
+    <string name="title_activity_act__login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_act__verify">Act_Verify</string>
+    <string name="resend_code">ارسال مجدد</string>
+    <string name="verify">تایید</string>
+    <string name="verification_code">کد تایید</string>
+    <string name="forgot_my_pass">رمزعبور خود را فراموش کرده ام</string>
+    <string name="signup">ثبت نام</string>
+    <string name="show_password">نمایش رمزعبور</string>
+    <string name="reagent_code">کد معرف</string>
+    <string name="password">رمزعبور</string>
+    <string name="phone_number">شماره تماس</string>
+    <string name="phone_not_entered">شماره تماس خود را وارد نمایید</string>
+    <string name="title_activity_act__sign__up__completion">Act_Sign_Up_Completion</string>
+    <string name="name">نام</string>
+    <string name="family">نام خانوادگی</string>
+    <string name="sign_up_completion">تکمیل ثبت نام</string>
+    <string name="pass_less_than_6_chars">طول رمزعبور حداقل باید 6 کاراکتر باشد.</string>
+    <string name="introducer_code_not_valid">کد معرف معتبر نیست</string>
+    <string name="chane_pass">تغییر رمزعبور</string>
+    <string name="set_base_info">ثبت اطلاعات پایه</string>
+    <string name="register_login">ثبت نام - ورود</string>
+    <string name="title_activity_act__edit__profile">Act_Edit_Profile</string>
+    <string name="birthdate">تاریخ تولد</string>
+    <string name="enter_birthday">تاریخ تولد خود را وارد کنید</string>
+    <string name="email">ایمیل</string>
+    <string name="submit">ثبت</string>
+    <string name="camera">دوربین</string>
+    <string name="gallery">گالری</string>
+    <string name="select_image">انتخاب تصویر</string>
+    <string name="title_activity_act__shop">Act_Shop</string>
+    <string name="products">محصولات</string>
+    <string name="buy">خرید</string>
+    <string name="info">اطلاعات</string>
+    <string name="Service_description">شرح خدمات</string>
+    <string name="contact_ways">روش های ارتباطی</string>
+    <string name="manager_name">نام مدیر</string>
+    <string name="web_site">وب سایت</string>
+    <string name="address">آدرس</string>
+    <string name="register_date">تاریخ عضویت</string>
+    <string name="Guild_information">اطلاعات صنفی</string>
+    <string name="guild_type">نوع صنف</string>
+    <string name="license_number">شماره پروانه یا سازمان</string>
+    <string name="product_categories">دسته بندی محصولات</string>
+    <string name="sales">حراج</string>
+    <string name="bestsellers">پرفروش ها</string>
+    <string name="announcements">اطلاعیه ها</string>
+    <string name="user_comments">نظرات کاربران</string>
+    <string name="position">موقعیت</string>
+    <string name="report">گزارش مشکل</string>
+    <string name="no_comments_registered">نظری برای این فروشگاه ثبت نشده است.</string>
+    <string name="no_announcements_registered">اطلاعیه ای از سوی این فروشگاه ثبت نشده است.</string>
+    <string name="title_activity_act__previous__orders">Act_Previous_Orders</string>
+    <string name="no_orders_registered">شما تا کنون سفارشی ثبت نکرده اید</string>
+    <string name="title_activity_act__bookmarks">Act_Bookmarks</string>
+    <string name="no_bookmark_products">هیچ محصولی نشان نشده است</string>
+    <string name="no_bookmark_shops">هیچ فروشگاهی نشان نشده است</string>
+    <string name="shops">فروشگاه ها</string>
+    <string name="title_activity_act__share">Act_Share</string>
+    <string name="introduce_friends">معرفی به دوستان</string>
+    <string name="telegram_not_installed">تلگرام نصب نیست</string>
+    <string name="your_intro_code">کد معرفی شما</string>
+    <string name="share_comments">share message</string>
+    <string name="title_activity_act__support">Act_Support</string>
+    <string name="call_support">تماس با واحد پشتیبانی</string>
+    <string name="late_delivery">سفارشم را دیر تحویل گرفتم</string>
+    <string name="problem_with_delivery">با پیک مشکل داشتم</string>
+    <string name="order_price_problem">با هزینه سفارش مشکل داشتم</string>
+    <string name="app_problem">با اپلیکیشن مشکل دارم</string>
+    <string name="title_activity_act__message__support">Act_Message_Support</string>
+    <string name="send">ارسال</string>
+    <string name="support_message">لطفا توضیحات مربوطه را با ذکر جزئیات برای ما ارسال کنید. ما در اسرع وقت پاسخگو خواهیم بود.</string>
+    <string name="enter_problem_details">جزئیات مشکل خود را وارد کنید</string>
+    <string name="title_activity_act__about__us">Act_About_Us</string>
+    <string name="about_app_text">متن درباره ما</string>
+    <string name="title_activity_act__credit">Act_Credit</string>
+    <string name="verify_and_continue">تایید و ادامه</string>
+    <string name="your_credit_amount">موجودی اعتبار شما:</string>
+    <string name="credit">اعتبار</string>
+    <string name="title_activity_act__settings">Act_Settings</string>
+    <string name="title_activity_act__search">Act_Search</string>
+    <string name="title_activity_act__basket">Act_Basket</string>
+    <string name="basket_empty">سبد خرید شما خالی است.</string>
+
+    <string name="open">باز است</string>
+    <string name="closed">باز نیست</string>
+    <string name="Organizational">سازمانی</string>
+    <string name="Services">خدماتی</string>
+    <string name="management">مدیریت</string>
+    <string name="staff">پرسنل</string>
+    <string name="shop_tell">شماره تماس فروشگاه</string>
+    <string name="Licenses_and_Certificates">مجوزها و گواهینامه ها</string>
+
+    <array name="report_items">
+        <item>محتوای نامناسب</item>
+        <item>اطلاعات گمراه کننده یا دروغ</item>
+        <item>قرارگرفتن در دسته بندی نامناسب</item>
+        <item>سایر</item>
+    </array>
+    <string name="title_activity_act__product">Act_Product</string>
+    <string name="you_are_here">شما اینجا هستید.</string>
+    <string name="specs">مشخصات</string>
+    <string name="add_to_basket">افزودن به سبد خرید</string>
+    <string name="special_offers">فروش ویژه</string>
+    <string name="title_activity_act__filter">Act_Filter</string>
+    <string name="set_delivery_position">منطقه خرید خود را انتخاب کنید</string>
+    <string name="sign_up_and_enter">ثبت نام و ورود</string>
+    <string name="title_activity_act__other__problems">Act_Other_Problems</string>
+    <string name="Service">خدمات</string>
+    <string name="check_net">دسترسی به اینترنت را بررسی کنید</string>
+    <string name="select_product_category">انتخاب دسته بندی محصولات</string>
+    <string name="select_service_category">انتخاب دسته بندی خدمات</string>
+    <string name="full_list">لیست کامل</string>
+    <string name="product_description">توضیحات محصول:</string>
+    <string name="price_changed">قیمت این محصول تغییر کرده است.</string>
+    <string name="color">رنگ:</string>
+    <string name="count">تعداد</string>
+</resources>

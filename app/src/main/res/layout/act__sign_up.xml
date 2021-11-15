@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/txt_toolbar_title"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="16dp"
+                    android:layout_weight="1"
+                    android:gravity="center|right"
+                    android:text="@string/app_name"
+                    android:textColor="@color/white"
+                    android:textSize="22dp" />
+
+                <ImageView
+                    android:id="@+id/img_back"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_marginRight="12dp"
+                    android:background="@null"
+                    app:ico_color="@android:color/white"
+                    app:ico_icon="gmd-keyboard-arrow-right"
+                    app:ico_size="25dp" />
+            </LinearLayout>
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_choose_country"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/bg_stroke_accent"
+        android:gravity="center|left"
+        android:orientation="horizontal"
+        android:padding="4dp">
+
+        <ImageView
+            android:id="@+id/img_country_flag"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:adjustViewBounds="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/flag_ir" />
+
+        <TextView
+            android:id="@+id/txt_country_name"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="8dp"
+            android:layout_weight="1"
+            android:gravity="center|left"
+            android:text="IR"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center|left"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="+"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+
+        <EditText
+            android:id="@+id/et_country_code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionNext"
+            android:inputType="phone"
+            android:maxLines="1"
+            android:text="98"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+
+        <EditText
+            android:id="@+id/et_phone"
+
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_weight="1"
+            android:drawablePadding="4dp"
+            android:gravity="left"
+            android:hint="9123456789"
+            android:imeOptions="actionDone"
+            android:inputType="phone"
+            android:maxLines="1"
+            android:paddingRight="4dp"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="@string/enter_phone_without_zero" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+
+    <com.rey.material.widget.Button
+        android:id="@+id/btn_sign_up"
+        style="@style/LightRaiseWaveColorButtonRippleStyle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="27dp"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="@string/sign_up_and_enter"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        app:rd_enable="true" />
+</LinearLayout>
+
